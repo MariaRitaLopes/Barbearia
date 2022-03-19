@@ -1,27 +1,37 @@
+
 # Barbearia
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
+Projeto desenvolvido em sala com auxílio do professor no Angular framework.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Aprendizados
+ 
+ - O projeto me proporcionou maior 
+ experiência em programação na linguagem TypeScript.
+ 
+ - Aprimoramento em HTML e CSS.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Treinamento no back-end e front-end.
 
-## Build
+- Entre outras bases de conhecimento.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Funcionalidades
 
-## Running unit tests
+- Envio de requisições(GET, POST e PATCH)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Utilização do pacote ngx-mask
 
-## Running end-to-end tests
+- Utilização de componentes angular
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Conectividade com banco de dados.
 
-## Further help
+- Integração do back-end e front-end
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Aplicação no terminal.
+
+
+## Autores
+
+- [@maria_rita_lop](https://github.com/MariaRitaLopes/2j_gb_pam1_2021)
+
